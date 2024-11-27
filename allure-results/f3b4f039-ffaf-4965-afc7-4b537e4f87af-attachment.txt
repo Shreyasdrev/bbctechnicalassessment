@@ -1,0 +1,1 @@
+ Verified the user can pick the Technology topic from the Topic picker and that the 'Go to Technology' link name changes accordingly

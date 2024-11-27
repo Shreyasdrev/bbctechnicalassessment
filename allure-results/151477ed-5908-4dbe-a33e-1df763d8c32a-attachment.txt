@@ -1,0 +1,1 @@
+ User can successfully navigate to and view the content on the home page

@@ -1,0 +1,1 @@
+ Handled the error alert after clicking breaking new button successfully

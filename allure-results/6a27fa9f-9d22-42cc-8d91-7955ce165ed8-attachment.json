@@ -1,0 +1,20 @@
+{
+  "path": "https://atl-android-10.appetize.io",
+  "token": "2b71e333612e8ebc465af34e736b1e73f4d07024edd33f20b9b22460e90fabb2",
+  "config": {
+    "deviceColor": "black",
+    "volume": 0.5,
+    "codec": "jpeg",
+    "orientation": "portrait",
+    "audio": false,
+    "showRotateButtons": false,
+    "device": "pixel7",
+    "osVersion": "13.0",
+    "scale": 75,
+    "platform": "android",
+    "record": true,
+    "rotation": 0,
+    "autoplay": false,
+    "publicKey": "b_dsaiboq6tq3egcgabcj5j4kh5m"
+  }
+}

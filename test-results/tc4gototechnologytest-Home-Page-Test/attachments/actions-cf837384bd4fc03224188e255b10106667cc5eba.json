@@ -1,0 +1,420 @@
+[
+  {
+    "playback": {
+      "id": "31efa2cb-63a5-430a-8343-f2fff701ae74",
+      "action": {
+        "type": "findElements",
+        "element": {
+          "attributes": {
+            "class": "android.widget.ImageView"
+          }
+        }
+      },
+      "options": {
+        "timeout": 10
+      }
+    },
+    "matchedElements": [
+      {
+        "path": "/0/0/0/0/0/0/0/1/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 41.333333333333336,
+          "y": 758,
+          "width": 69,
+          "height": 42
+        },
+        "attributes": {
+          "content-desc": "Back",
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/back",
+          "clickable": "true",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "true",
+          "focused": "false",
+          "drawingOrder": "1"
+        }
+      },
+      {
+        "path": "/0/0/0/0/0/0/0/2/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 249,
+          "y": 758,
+          "width": 69.33333333333333,
+          "height": 42
+        },
+        "attributes": {
+          "content-desc": "Overview",
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/recent_apps",
+          "clickable": "true",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "true",
+          "focused": "false",
+          "drawingOrder": "1"
+        }
+      },
+      {
+        "path": "/0/0/0/0/0/0/1/0/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 145,
+          "y": 758,
+          "width": 70,
+          "height": 42
+        },
+        "attributes": {
+          "content-desc": "Home",
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/home_button",
+          "clickable": "true",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "true",
+          "focused": "false",
+          "drawingOrder": "5"
+        }
+      },
+      {
+        "path": "/0/0/0/0/0/0/1/0/1/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 175.66666666666666,
+          "y": 774.6666666666666,
+          "width": 8.666666666666666,
+          "height": 8.666666666666666
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/red",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "1"
+        }
+      },
+      {
+        "path": "/0/0/0/0/0/0/1/0/1/1",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 175.66666666666666,
+          "y": 774.6666666666666,
+          "width": 8.666666666666666,
+          "height": 8.666666666666666
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/blue",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "2"
+        }
+      },
+      {
+        "path": "/0/0/0/0/0/0/1/0/1/2",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 175.66666666666666,
+          "y": 774.6666666666666,
+          "width": 8.666666666666666,
+          "height": 8.666666666666666
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/green",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "3"
+        }
+      },
+      {
+        "path": "/0/0/0/0/0/0/1/0/1/3",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 175.66666666666666,
+          "y": 774.6666666666666,
+          "width": 8.666666666666666,
+          "height": 8.666666666666666
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/yellow",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "4"
+        }
+      },
+      {
+        "path": "/0/0/0/0/0/0/1/0/2",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 166,
+          "y": 765,
+          "width": 28,
+          "height": 28
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/white_cutout",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "3"
+        }
+      },
+      {
+        "path": "/0/0/0/0/0/0/1/0/3",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 166,
+          "y": 765,
+          "width": 28,
+          "height": 28
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/white",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "4"
+        }
+      },
+      {
+        "path": "/1/0/1/0/0/2/0/0/0/0/0/0/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 297.3333333333333,
+          "y": 14.666666666666666,
+          "width": 13,
+          "height": 13
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/wifi_signal",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "1"
+        }
+      },
+      {
+        "path": "/1/0/1/0/0/2/0/0/0/1/0/0/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 310.3333333333333,
+          "y": 14.666666666666666,
+          "width": 13,
+          "height": 13
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "resource-id": "com.android.systemui:id/mobile_signal",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "1"
+        }
+      },
+      {
+        "path": "/1/0/1/0/0/2/0/0/1/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 328.6666666666667,
+          "y": 15.666666666666666,
+          "width": 6.666666666666667,
+          "height": 11.333333333333334
+        },
+        "attributes": {
+          "class": "android.widget.ImageView",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "1"
+        }
+      },
+      {
+        "path": "/2/0/0/0/0/0/0/0/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 137.33333333333334,
+          "y": 45.666666666666664,
+          "width": 85.66666666666667,
+          "height": 24.333333333333332
+        },
+        "attributes": {
+          "content-desc": "BBC Logo",
+          "class": "android.widget.ImageView",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "0"
+        }
+      },
+      {
+        "path": "/2/0/0/0/0/0/0/0/3",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 0,
+          "y": 149.33333333333334,
+          "width": 360,
+          "height": 218.66666666666666
+        },
+        "attributes": {
+          "content-desc": "BBC Logo",
+          "class": "android.widget.ImageView",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "0"
+        }
+      }
+    ]
+  },
+  {
+    "playback": {
+      "id": "16378de7-bc42-4fe1-a999-f0b911585ce0",
+      "action": {
+        "type": "findElements",
+        "element": {
+          "attributes": {
+            "text": "My BBC",
+            "class": "android.widget.TextView"
+          }
+        }
+      },
+      "options": {
+        "timeout": 10
+      }
+    },
+    "matchedElements": [
+      {
+        "path": "/2/0/0/0/0/0/0/0/1",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 26.333333333333332,
+          "y": 113.66666666666667,
+          "width": 109,
+          "height": 35.666666666666664
+        },
+        "attributes": {
+          "text": "My BBC",
+          "class": "android.widget.TextView",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "0"
+        }
+      }
+    ]
+  },
+  {
+    "playback": {
+      "id": "532d8c8d-6601-42fc-8e9b-acfe63c2de00",
+      "action": {
+        "type": "findElements",
+        "element": {
+          "attributes": {
+            "text": "Breaking News"
+          }
+        }
+      },
+      "options": {
+        "timeout": 10
+      }
+    },
+    "matchedElements": [
+      {
+        "path": "/2/0/0/0/0/0/0/0/8/0",
+        "type": "node",
+        "source": "accessibility",
+        "bounds": {
+          "x": 139,
+          "y": 512.3333333333334,
+          "width": 82.33333333333333,
+          "height": 17.666666666666668
+        },
+        "attributes": {
+          "text": "Breaking News",
+          "class": "android.widget.TextView",
+          "clickable": "false",
+          "enabled": "true",
+          "checkable": "false",
+          "selected": "false",
+          "focusable": "false",
+          "drawingOrder": "0"
+        }
+      }
+    ]
+  },
+  {
+    "playback": {
+      "id": "4eaff34b-3fa4-443e-ab7e-30b4cb4af0ca",
+      "action": {
+        "type": "tap",
+        "element": {
+          "attributes": {
+            "text": "Politics"
+          }
+        },
+        "duration": 0,
+        "localPosition": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "options": {
+        "timeout": 10
+      }
+    },
+    "errorId": "notFound"
+  }
+]

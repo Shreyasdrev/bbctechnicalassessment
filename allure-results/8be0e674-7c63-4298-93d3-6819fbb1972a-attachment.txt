@@ -1,0 +1,1 @@
+ Verified that Choosing 'TV Guide' topic from the Topic picker and select 'No' in the alert confirmation after tapping the 'Go to TV Guide' link, the user stays on current page
